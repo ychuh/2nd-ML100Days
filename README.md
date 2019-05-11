@@ -47,5 +47,5 @@
 [Day_21] Reduce Skewness (偏度)
 - Stats.boxcox()
 
-[Day_22] Impact on LogisticRegression with LabelEncoder/OneHotEncoder - 5/11
+**[Day_22]** Impact on LogisticRegression with LabelEncoder/OneHotEncoder - 5/11
 - LabelEncoder(), pd.get_dummies()
