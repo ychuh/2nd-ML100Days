@@ -2,4 +2,4 @@
 ***
 
 
-## [Day 22] ## **Ipact on LogisticRegression with LabelEncoder/OneHotEncoder**
+## [Day 22] Impact on LogisticRegression with LabelEncoder/OneHotEncoder
