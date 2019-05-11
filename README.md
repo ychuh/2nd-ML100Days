@@ -52,7 +52,7 @@
 - np.random.sample([nrow, ncol]): create a random value matrix
 - sns.PairGrid()
 
-**[Day_16] First Modle - 5/5**
+**[Day_16] First Model - 5/5**
 - LogisticRegression()
 - submit.to_csv(filename, index)
 
