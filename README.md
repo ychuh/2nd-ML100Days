@@ -1,4 +1,5 @@
 # 2nd-ML100Days
 ***
-**Test**
-test
+
+
+## [Day 22] **Find impact on LogisticRegression with LabelEncoder/OneHotEncoder**
