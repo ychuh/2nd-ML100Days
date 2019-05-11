@@ -1,5 +1,7 @@
 # 2nd-ML100Days
 ***
+## [Preprocessing]
+
 **[Day_1] Basic Calculating and Plot - 4/19**
 - Mean Square Error: 𝑀𝑆𝐸=1𝑛∑𝑛𝑖=1(𝑌𝑖−𝑌̂ 𝑖)2
 - plt.plot(data_x, data_y, 'b-', label = 'label_name')
@@ -57,7 +59,7 @@
 - submit.to_csv(filename, index)
 
 ***
-# [資料科學特徵工程技術]
+## [Feature Engineering]
 
 **[Day_17] Introducing Feature Engineering - 5/7**
 - LabelEncoder(): labeling object data
