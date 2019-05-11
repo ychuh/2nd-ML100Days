@@ -1,16 +1,33 @@
 # 2nd-ML100Days
 ***
-[Day_1]
+**[Day_1] Basic Calculating and Plot - 4/19**
+- Mean Square Error: 𝑀𝑆𝐸=1𝑛∑𝑛𝑖=1(𝑌𝑖−𝑌̂ 𝑖)2
+- plt.plot(data_x, data_y, 'b-', label = 'label_name')
 
-[Day_2]
+**[Day_2] Extract Data By Row, Column - 4/20**
+- dir_data = './data/'
+- f_app = os.path.join(dir_data, 'application_train.csv')
+- DataFrame.shape/describe/head/tail
+- DataFrame['Col1', 'Col2']: extract col1 and col2 only
 
-[Day_3]
+**[Day_3] Build DataFrame and Get/Extract Figure from URL- 4/21**
+- df.loc[condition, tartget_columns]
+- np.random.randint(range, number)
+- requests.get(URL)
+- result = img2arr_fromURLs(df.loc[0:4]['URL']): get images
+- plt.imshow()/ plt.show()
 
-[Day_4]
+**[Day_4] Concept of Sub DataFrame, LabelEncoder, OneHotEncoder - 4/23**
+- sub_df = pd.DataFrame(df['col1', 'col2'])
 
-[Day_5]
+**[Day_5] Calculate Mean, Max, Min of Data and Plot Histogram - 4/24
+- df.mean()/df.max()/df.min()
+- plt.hist()
 
-[Day_6]
+**[Day_6] Detect Outliers - 4/29**
+- df.boxplot()
+- Emprical Cumulative Density Plot (ECDP)
+- df.loc
 
 [Day_7]
 
