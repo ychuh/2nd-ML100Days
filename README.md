@@ -20,7 +20,7 @@
 **[Day_4] Concept of Sub DataFrame, LabelEncoder, OneHotEncoder - 4/23**
 - sub_df = pd.DataFrame(df['col1', 'col2'])
 
-**[Day_5] Calculate Mean, Max, Min of Data and Plot Histogram - 4/24
+**[Day_5] Calculate Mean, Max, Min of Data and Plot Histogram - 4/24**
 - df.mean()/df.max()/df.min()
 - plt.hist()
 
