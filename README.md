@@ -36,11 +36,16 @@
 
 [Day_18]
 
-[Day_19]
+[Day_19] Dealing with missing data
+- DataFrame.fillna(): fill missing data with 0, -1, mean, median to make dataset meaningful
+- MinMaxScaler(), StandardScaler()
 
-[Day_20]
+[Day_20] Dealing with outliers
+- DataFrame.clip(): set a upper/lower limits and transform outliers into upper/lower limit value
+- Drop outlier directly
 
 [Day_21] Reduce Skewness (偏度)
 - Stats.boxcox()
 
 [Day_22] Impact on LogisticRegression with LabelEncoder/OneHotEncoder - 5/11
+- LabelEncoder(), pd.get_dummies()
