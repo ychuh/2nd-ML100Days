@@ -87,7 +87,7 @@
 **[Day_23] Dealing With Oject Data by Mean Encoder - 5/12**
 - Smoothing
 - pd.concat(df_1, df_2, axis=1): axis=1 align by column
-- data = pd.concat([df[:train_num], train_Y], axis=1)
+- data = pd.concat([df[:train_num], train_Y], axis=1): initiate for mean encoding, adding target column back
 - mean_df = data.groupby([c])['Survived'].mean().reset_index()
 - mean_df.columns = [c, f'{c}_mean']
 - data = pd.merge(data, mean_df, on=c, how='left')
