@@ -94,6 +94,7 @@
 - data = data.drop([c] , axis=1)
 
 **[Day_24] CountEncoder And FeatureHash - 5/14**
+
 **[Day_25] Time Feature - 5/15**
 - datetime.weekday()
 - datetime.isoweekday()
