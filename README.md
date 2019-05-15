@@ -94,3 +94,8 @@
 - data = data.drop([c] , axis=1)
 
 **[Day_24] CountEncoder And FeatureHash - 5/14**
+**[Day_25] Time Feature - 5/15**
+- datetime.weekday()
+- datetime.isoweekday()
+- datetime.isocalendar()
+- DataFrame.apply(lambda x: x.weekday()) **v.s.** DataFrame.map(lambda x: math.sin(x*math.pi))
