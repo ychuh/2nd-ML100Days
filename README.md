@@ -100,3 +100,11 @@
 - datetime.isoweekday()
 - datetime.isocalendar()
 - DataFrame.apply(lambda x: x.weekday()) **v.s.** DataFrame.map(lambda x: math.sin(x*math.pi))
+
+**[Day_26] - 5/16**
+
+**[Day_27] Groupby Encoder - 5/18**
+- 創立兩種以上的群聚編碼特徵(mean、median、mode、max、min、count)
+- Feature 寧爛勿缺、多多益善
+
+**[Day_28] 
