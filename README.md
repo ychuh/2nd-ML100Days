@@ -107,7 +107,13 @@
 - 創立兩種以上的群聚編碼特徵(mean、median、mode、max、min、count)
 - Feature 寧爛勿缺、多多益善
 
-**[Day_28] Feature Selection: Filter, Wrapper, Embedded**
+**[Day_28] Feature Selection: Filter, Wrapper, Embedded - 5/18**
 - 過濾法 (Filter) : 選定統計數值與設定⾨門檻，刪除低於⾨門檻的特徵
 - 包裝法 (Wrapper) : 根據⽬目標函數，逐步加入特徵或刪除特徵
 - 嵌入法 (Embedded) : 使⽤用機器學習模型，根據擬合後的係數，刪除係數低於⾨門檻的特徵
+
+**[Day_29] Feature Importance - 5/19**
+- estimator = GradientBoostingClassifier()
+- estimator.fit(df.values, train_Y)
+- feats = pd.Series(data=estimator.feature_importances_, index=df.columns)
+- feats = feats.sort_values(ascending=False)
