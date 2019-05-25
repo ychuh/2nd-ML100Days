@@ -119,3 +119,8 @@
 - feats = feats.sort_values(ascending=False)
 
 **[Day_30] Leaf Encodeing - 5/25**
+
+***
+## [Machine Learning]
+
+**[Day_31] Concenpt of Machine Learning - 5/25**
