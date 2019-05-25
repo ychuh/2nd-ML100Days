@@ -117,3 +117,5 @@
 - estimator.fit(df.values, train_Y)
 - feats = pd.Series(data=estimator.feature_importances_, index=df.columns)
 - feats = feats.sort_values(ascending=False)
+
+**[Day_30] Leaf Encodeing - 5/25**
