@@ -124,3 +124,10 @@
 ## [Machine Learning]
 
 **[Day_31] Concenpt of Machine Learning - 5/25**
+
+**[Day_32] Process of Machine Learning - 5/28**
+- Project of Personalized Hey Siri (Speaker Recognition, DNN, RNN)
+
+**[Day_33] How Does A Machine Learn? -5/28**
+- Over-fitting, 過擬合代表模型可能學習到資料中的噪⾳音，導致在實際應⽤用時預測失準
+- 
