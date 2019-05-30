@@ -130,4 +130,6 @@
 
 **[Day_33] How Does A Machine Learn? -5/28**
 - Over-fitting, 過擬合代表模型可能學習到資料中的噪⾳音，導致在實際應⽤用時預測失準
-- 
+
+**[Day_34] Train_Test_Split and K-Fold - 5/30**
+- Train_Test_Split(test_size)
