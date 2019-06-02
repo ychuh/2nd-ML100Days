@@ -142,3 +142,4 @@
 - Precision-Recall
 - TP, TN, FP, FN
 - F_beta_score
+- Confusion Metrics
