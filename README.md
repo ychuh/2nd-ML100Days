@@ -144,4 +144,8 @@
 - F_beta_score
 - Confusion Metrics
 
-**[Day_37] Regression Model - 6/2**
+**[Day_37] Regression Model Intro - 6/2**
+- Linear Regression (to find a linear equation which represents the relationship of inputs and outputs)
+- Logistic Regression (a classifcation model)
+
+**[Day_38] Regression Model - 6/2**
