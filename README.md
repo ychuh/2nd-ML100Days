@@ -151,4 +151,9 @@
 **[Day_38] Regression Model - 6/2**
 - Linear Regression, Logistic Regression, Multinominal Logistic Regression
 
-**[Day_39] 
+**[Day_39] Lasso, Ridge Regression - 6/2**
+- Loss function, 損失函數衡量量預測值與實際值的差異異，讓模型能往正確的⽅方向學習 (e.g. MSE, MAE, RMSE...)
+- Regulization, 則是避免模型變得過於複雜，造成過擬合 (Over-fitting) (e.g. L1, L2 這兩種都是希望模型的參數數值不要太⼤，降低對噪音敏感度，**提升模型的泛化能⼒**)
+- Lasso = linear regression + **L1**
+- Ridge = linear regression + **L2**
+- Penalty
