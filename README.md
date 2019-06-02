@@ -133,3 +133,12 @@
 
 **[Day_34] Train_Test_Split and K-Fold - 5/30**
 - Train_Test_Split(test_size)
+
+**[Day_35]
+
+**[Day_36] Evaluation Metrics - 6/2**
+- ROC
+- AUC
+- Precision-Recall
+- TP, TN, FP, FN
+- F_beta_score
