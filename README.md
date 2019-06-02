@@ -1,7 +1,7 @@
 # 2nd-ML100Days
 ***
 ## [Preprocessing]
-
+***
 **[Day_1] Basic Calculating and Plot - 4/19**
 - Mean Square Error: 𝑀𝑆𝐸=1𝑛∑𝑛𝑖=1(𝑌𝑖−𝑌̂ 𝑖)2
 - plt.plot(data_x, data_y, 'b-', label = 'label_name')
@@ -58,9 +58,8 @@
 - LogisticRegression()
 - submit.to_csv(filename, index)
 
-***
 ## [Feature Engineering]
-
+***
 **[Day_17] Introducing Feature Engineering - 5/7**
 - LabelEncoder(): labeling object data
 - MinMaxScaler()
@@ -120,9 +119,8 @@
 
 **[Day_30] Leaf Encodeing - 5/25**
 
-***
 ## [Machine Learning]
-
+***
 **[Day_31] Concenpt of Machine Learning - 5/25**
 
 **[Day_32] Process of Machine Learning - 5/28**
@@ -151,8 +149,10 @@
 **[Day_38] Regression Model - 6/2**
 - Linear Regression, Logistic Regression, Multinominal Logistic Regression
 
-**[Day_39] Lasso, Ridge Regression - 6/2**
+**[Day_39] Lasso, Ridge Regression Intro- 6/2**
 - Loss function, 損失函數衡量量預測值與實際值的差異異，讓模型能往正確的⽅方向學習 (e.g. MSE, MAE, RMSE...)
 - Regulization, 則是避免模型變得過於複雜，造成過擬合 (Over-fitting) (e.g. L1, L2 這兩種都是希望模型的參數數值不要太⼤，降低對噪音敏感度，**提升模型的泛化能⼒**)
 - Lasso = linear regression + **L1**, can be used to do feature selection
 - Ridge = linear regression + **L2**, can use to solve multicolinearity
+
+**[Day_40] Lasso, Ridge Regression 
