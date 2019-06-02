@@ -142,3 +142,6 @@
 - Precision-Recall
 - TP, TN, FP, FN
 - F_beta_score
+- Confusion Metrics
+
+**[Day_37] Regression Model - 6/2**
