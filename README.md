@@ -156,4 +156,4 @@
 - Lasso = linear regression + **L1**, can be used to do feature selection
 - Ridge = linear regression + **L2**, can use to solve multicolinearity
 
-**[Day_40] Lasso, Ridge Regression 
+**[Day_40] Lasso, Ridge Regression - 6/2**
