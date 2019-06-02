@@ -145,3 +145,5 @@
 - Confusion Metrics
 
 **[Day_37] Regression Model - 6/2**
+- Linear Regression (to find a linear equation which represents the relationship of inputs and outputs)
+- Logistic Regression (a classifcation model)
