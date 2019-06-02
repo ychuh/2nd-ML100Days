@@ -149,3 +149,6 @@
 - Logistic Regression (a classifcation model)
 
 **[Day_38] Regression Model - 6/2**
+- Linear Regression, Logistic Regression, Multinominal Logistic Regression
+
+**[Day_39] 
