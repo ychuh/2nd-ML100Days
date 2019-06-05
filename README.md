@@ -157,3 +157,9 @@
 - Ridge = linear regression + **L2**, can use to solve multicolinearity
 
 **[Day_40] Lasso, Ridge Regression - 6/2**
+
+**[Day_41] Introduction of Decision Tree - 6/3**
+
+**[Day_42] Coding of Decision Tree - 6/4**
+- DecisionTreeClassifier()
+- DecisionTreeRegressor()
