@@ -1,6 +1,5 @@
 # 2nd-ML100Days
 
-
 ## [Preprocessing]
 
 **[Day_1] Basic Calculating and Plot - 4/19**
@@ -168,3 +167,7 @@
 - Can be used as Classification and Regression Tree
 - Can reduce probability of overfitting by split features into random number of trees, nodes
 - Bagging -> Bulid Tree -> Ensemble (Classifier: voting; Regression: mean value)
+
+**[Day_44] Practice of Random Forest - 6/6**
+- n_estimator, how many trees created
+- max_depth
