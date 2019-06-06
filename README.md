@@ -163,3 +163,8 @@
 **[Day_42] Coding of Decision Tree - 6/4**
 - DecisionTreeClassifier()
 - DecisionTreeRegressor()
+
+**[Day_43] Introduction of Random Forest - 6/5**
+- Can be used as Classification and Regression Tree
+- Can reduce probability of overfitting by split features into random number of trees, nodes
+- Bagging -> Bulid Tree -> Ensemble (Classifier: voting; Regression: mean value)
