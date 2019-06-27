@@ -173,7 +173,7 @@
 - max_depth
 
 **[Day_45] GradientBoostingMachine**
-![Model Complexity and Error](http://url/to/img.png)
+![Model Complexity and Error](https://img.ifun01.com/images/2016/09/24/122036_XCWmIB.png!r800x0.jpg)
 
 **[Day_50] Stacking - 6/25**
 - [如何在 Kaggle 首战中进入前 10%](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
