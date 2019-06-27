@@ -172,5 +172,17 @@
 - n_estimator, how many trees created
 - max_depth
 
+**[Day_45] GradientBoostingMachine**
+
+> _More complex model will be more accurate (__lower bias__), but will be overfitting (__higher variance__)_
+
+> _Recommanded max_depth of gbdt is **8**; and RandomForestTree is **15**_
+
+![Model Complexity and Error](https://img.ifun01.com/images/2016/09/24/122036_XCWmIB.png!r800x0.jpg)
+
+- xgboost: 最大的特點在于，它能夠自動利用CPU的多線程進行並行，同時在算法上加以改進提高了精度。
+- [为什么说bagging是减少variance，而boosting是减少bias?](https://www.zhihu.com/question/26760839)
+- [为什么xgboost/gbdt在调参时为什么树的深度很少就能达到很高的精度？](https://www.zhihu.com/question/45487317)
+
 **[Day_50] Stacking - 6/25**
 - [如何在 Kaggle 首战中进入前 10%](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
