@@ -174,6 +174,9 @@
 
 **[Day_45] GradientBoostingMachine**
 
+- More complex model will be more accurate (lower bias), but will be overfitting (higher variance)
+- We have to find a balance point, which has well generalization
+
 ![Model Complexity and Error](https://img.ifun01.com/images/2016/09/24/122036_XCWmIB.png!r800x0.jpg)
 
 **[Day_50] Stacking - 6/25**
