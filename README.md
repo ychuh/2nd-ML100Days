@@ -186,3 +186,16 @@
 
 **[Day_50] Stacking - 6/25**
 - [如何在 Kaggle 首战中进入前 10%](https://dnc1994.com/2016/04/rank-10-percent-in-first-kaggle-competition/)
+
+**[Day_54] Introduction of Unsupervised Learning - 6/26**
+
+**[Day_55] Clustering - 6/27**
+- Kmeans is to minimize the within-cluster sum of squares (WCSS)
+- ax = Axes3D(fig, rect=[0, 0, .95, 1], elev=48, azim=134)
+
+**[Day_56] Silhouette Analysis - 6/28**
+
+**[Day_57] Hierarchical Clustering - 6/28**
+- 階層式分群在無需定義群數的情況下做資料的分群，⽽而後可以⽤用不同的距離定義⽅方式決定資料群組。
+- 分群距離計算⽅方式有 single-link, complete-link, average-link。
+- 概念念簡單且容易易呈現，但不適合⽤用在⼤大資料。
