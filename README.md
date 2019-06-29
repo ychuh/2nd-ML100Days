@@ -1,5 +1,7 @@
-# 2nd-ML100Days
-***
+Project: [機器學習 百日馬拉松](https://ai100-2.cupoy.com/participator/19013267/questions)   
+Duration: April 2019 / August 2019   
+Progress: **57 / 100**   
+
 # [Preprocessing]
 
 **[Day_1] Basic Calculating and Plot - 4/19**
