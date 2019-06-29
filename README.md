@@ -1,6 +1,8 @@
-# 2nd-ML100Days
+- Project: [機器學習 百日馬拉松](https://ai100-2.cupoy.com/participator/19013267/questions)   
+- Duration: April 2019 / August 2019   
+- Progress: **57 / 100**   
 
-## [Preprocessing]
+# [Preprocessing]
 
 **[Day_1] Basic Calculating and Plot - 4/19**
 - Mean Square Error: 𝑀𝑆𝐸=1𝑛∑𝑛𝑖=1(𝑌𝑖−𝑌̂ 𝑖)2
@@ -118,7 +120,7 @@
 - feats = feats.sort_values(ascending=False)
 
 **[Day_30] Leaf Encodeing - 5/25**
-
+***
 ## [Machine Learning]
 
 **[Day_31] Concenpt of Machine Learning - 5/25**
