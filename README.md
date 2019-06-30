@@ -197,7 +197,16 @@
 
 **[Day_56] Silhouette Analysis - 6/28**
 
-**[Day_57] Hierarchical Clustering - 6/28**
+**[Day_57] Hierarchical Clustering, Axes3D - 6/28**
 - 階層式分群在無需定義群數的情況下做資料的分群，⽽而後可以⽤用不同的距離定義⽅方式決定資料群組。
 - 分群距離計算⽅方式有 single-link, complete-link, average-link。
 - 概念念簡單且容易易呈現，但不適合⽤用在⼤大資料。
+
+**[Day_58] Hierarchical Clustering in 2D - 6/29**
+
+**[Day_59] Dimension Reduction_1, PCA, Principal Component Analysis - 6/30**
+- Eigen value, eigenvector
+  - 如果存在一個非零的向量 x，使得 x 被 A 作用之後 (也就是 A*x)，其結果會是 x 的簡單常數倍 (λ)，也就是：Ax = λx，則稱 x 為 A 的特徵向量，λ 為 A 的特徵值。
+- [U, S, V] = svd(Sigma), singular value decomposition
+- 降低維度可以幫助我們壓縮及丟棄無⽤用資訊、抽象化及組合新特徵、呈現⾼高維數據。常⽤用的算法爲主成分分析。
+- 在維度太⼤大發⽣生 overfitting 的情況下，可以嘗試⽤用PCA 組成的特徵來來做監督式學習，但不建議⼀一開始就做。
