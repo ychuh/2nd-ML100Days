@@ -2,14 +2,18 @@
 - Duration: April 2019 / August 2019   
 - Progress: **59 / 100**   
 
+# [Reference]
+- [Customizing Plots with Python Matplotlib](https://towardsdatascience.com/customizing-plots-with-python-matplotlib-bcf02691931f)
+- [Linear Regression Simplified - Ordinary Least Square vs Gradient Descent](https://towardsdatascience.com/linear-regression-simplified-ordinary-least-square-vs-gradient-descent-48145de2cf76)
+
 # [Preprocessing]
 
 **[Day_1] Basic Calculating and Plot - 4/19**
-- Mean Square Error: 𝑀𝑆𝐸=1𝑛∑𝑛𝑖=1(𝑌𝑖−𝑌̂ 𝑖)2
+- Mean Square Error: 𝑀𝑆𝐸=1𝑛∑𝑛𝑖=1(𝑌𝑖−𝑌̂𝑖)2
 - plt.plot(data_x, data_y, 'b-', label = 'label_name')
 
-**[Day_2] Extract Data By Row, Column - 4/20**
-- dir_data = './data/'
+**[Day_2] EDA-1/讀取資料 - 4/20**
+- Evaluation of classification: AUC, ROC
 - f_app = os.path.join(dir_data, 'application_train.csv')
 - DataFrame.shape/describe/head/tail
 - DataFrame['Col1', 'Col2']: extract col1 and col2 only
