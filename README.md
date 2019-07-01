@@ -1,6 +1,7 @@
 - Project: [機器學習 百日馬拉松](https://ai100-2.cupoy.com/participator/19013267/questions)   
 - Duration: April 2019 / August 2019   
 - Progress: **59 / 100**   
+- Reviewing: **9 / 59**
 
 # [Reference]
 - [Customizing Plots with Python Matplotlib](https://towardsdatascience.com/customizing-plots-with-python-matplotlib-bcf02691931f)
@@ -13,12 +14,14 @@
 - plt.plot(data_x, data_y, 'b-', label = 'label_name')
 
 **[Day_2] EDA-1/讀取資料 - 4/20**
+- [What is Exploratory Data Analysis?](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)
 - Evaluation of classification: AUC, ROC
 - f_app = os.path.join(dir_data, 'application_train.csv')
 - DataFrame.shape/describe/head/tail
 - DataFrame['Col1', 'Col2']: extract col1 and col2 only
 
 **[Day_3] Build DataFrame and Get/Extract Figure from URL- 4/21**
+- [Pandas Exercise](https://github.com/guipsamora/pandas_exercises)
 - df.loc[condition, tartget_columns]
 - np.random.randint(range, number)
 - requests.get(URL)
