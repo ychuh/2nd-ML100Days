@@ -217,3 +217,10 @@
 - [U, S, V] = svd(Sigma), singular value decomposition
 - 降低維度可以幫助我們壓縮及丟棄無⽤用資訊、抽象化及組合新特徵、呈現⾼高維數據。常⽤用的算法爲主成分分析。
 - 在維度太⼤大發⽣生 overfitting 的情況下，可以嘗試⽤用PCA 組成的特徵來來做監督式學習，但不建議⼀一開始就做。
+
+**[Day_60] PCA - 7/1**
+- from sklearn.pipeline import Pipeline
+
+**[Day_61] Dimension Reduction_2, T-SNE, t-distributed Stochastic Neighbor Embedding - 7/2**
+- 特徵間爲非線性關係時 (e.g. ⽂文字、影像資料)，PCA很容易易 underfitting。
+- t-SNE 對於特徵非線性資料有更更好的降維呈現能⼒力力。
