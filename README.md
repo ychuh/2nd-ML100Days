@@ -224,3 +224,9 @@
 **[Day_61] Dimension Reduction_2, T-SNE, t-distributed Stochastic Neighbor Embedding - 7/2**
 - 特徵間爲非線性關係時 (e.g. ⽂文字、影像資料)，PCA很容易易 underfitting。
 - t-SNE 對於特徵非線性資料有更更好的降維呈現能⼒力力。
+
+**[Day_66] Tensorflow/Keras Set Up - 7/8**
+
+**[Day_67] Keras Datasets - 7/9**
+- (x_train, y_train), (x_test, y_test) = cifar100.load_data(label_mode='fine')
+  - [fine (class) and coarse (superclass)](https://www.cs.toronto.edu/~kriz/cifar.html)
