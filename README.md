@@ -116,8 +116,8 @@
 - Feature 寧爛勿缺、多多益善
 
 **[Day_28] Feature Selection: Filter, Wrapper, Embedded - 5/18**
-- 過濾法 (Filter) : 選定統計數值與設定⾨門檻，刪除低於⾨門檻的特徵
-- 包裝法 (Wrapper) : 根據⽬目標函數，逐步加入特徵或刪除特徵
+- 過濾法 (Filter) : 選定統計數值與設定門檻，刪除低於門檻的特徵
+- 包裝法 (Wrapper) : 根據目標函數，逐步加入特徵或刪除特徵
 - 嵌入法 (Embedded) : 使⽤用機器學習模型，根據擬合後的係數，刪除係數低於⾨門檻的特徵
 
 **[Day_29] Feature Importance - 5/19**
@@ -136,7 +136,7 @@
 - Project of Personalized Hey Siri (Speaker Recognition, DNN, RNN)
 
 **[Day_33] How Does A Machine Learn? -5/28**
-- Over-fitting, 過擬合代表模型可能學習到資料中的噪⾳音，導致在實際應⽤用時預測失準
+- Over-fitting, 過擬合代表模型可能學習到資料中的噪音，導致在實際應用時預測失準
 
 **[Day_34] Train_Test_Split and K-Fold - 5/30**
 - Train_Test_Split(test_size)
@@ -159,7 +159,7 @@
 - Linear Regression, Logistic Regression, Multinominal Logistic Regression
 
 **[Day_39] Lasso, Ridge Regression Intro- 6/2**
-- Loss function, 損失函數衡量量預測值與實際值的差異異，讓模型能往正確的⽅方向學習 (e.g. MSE, MAE, RMSE...)
+- Loss function, 損失函數衡量預測值與實際值的差異，讓模型能往正確的方向學習 (e.g. MSE, MAE, RMSE...)
 - Regulization, 則是避免模型變得過於複雜，造成過擬合 (Over-fitting) (e.g. L1, L2 這兩種都是希望模型的參數數值不要太⼤，降低對噪音敏感度，**提升模型的泛化能⼒**)
 - Lasso = linear regression + **L1**, can be used to do feature selection
 - Ridge = linear regression + **L2**, can use to solve multicolinearity
@@ -205,9 +205,9 @@
 **[Day_56] Silhouette Analysis - 6/28**
 
 **[Day_57] Hierarchical Clustering, Axes3D - 6/28**
-- 階層式分群在無需定義群數的情況下做資料的分群，⽽而後可以⽤用不同的距離定義⽅方式決定資料群組。
+- 階層式分群在無需定義群數的情況下做資料的分群，⽽而後可以用不同的距離定義方式決定資料群組。
 - 分群距離計算⽅方式有 single-link, complete-link, average-link。
-- 概念念簡單且容易易呈現，但不適合⽤用在⼤大資料。
+- 概念簡單且容易呈現，但不適合用在大資料。
 
 **[Day_58] Hierarchical Clustering in 2D - 6/29**
 
@@ -215,18 +215,22 @@
 - Eigen value, eigenvector
   - 如果存在一個非零的向量 x，使得 x 被 A 作用之後 (也就是 A*x)，其結果會是 x 的簡單常數倍 (λ)，也就是：Ax = λx，則稱 x 為 A 的特徵向量，λ 為 A 的特徵值。
 - [U, S, V] = svd(Sigma), singular value decomposition
-- 降低維度可以幫助我們壓縮及丟棄無⽤用資訊、抽象化及組合新特徵、呈現⾼高維數據。常⽤用的算法爲主成分分析。
-- 在維度太⼤大發⽣生 overfitting 的情況下，可以嘗試⽤用PCA 組成的特徵來來做監督式學習，但不建議⼀一開始就做。
+- 降低維度可以幫助我們壓縮及丟棄無用資訊、抽象化及組合新特徵、呈現⾼維數據。常用的算法爲主成分分析。
+- 在維度太大發⽣ overfitting 的情況下，可以嘗試⽤用PCA 組成的特徵來做監督式學習，但不建議⼀開始就做。
 
 **[Day_60] PCA - 7/1**
 - from sklearn.pipeline import Pipeline
 
 **[Day_61] Dimension Reduction_2, T-SNE, t-distributed Stochastic Neighbor Embedding - 7/2**
 - 特徵間爲非線性關係時 (e.g. ⽂文字、影像資料)，PCA很容易易 underfitting。
-- t-SNE 對於特徵非線性資料有更更好的降維呈現能⼒力力。
+- t-SNE 對於特徵非線性資料有更好的降維呈現能力。
 
 **[Day_66] Tensorflow/Keras Set Up - 7/8**
 
 **[Day_67] Keras Datasets - 7/9**
 - (x_train, y_train), (x_test, y_test) = cifar100.load_data(label_mode='fine')
   - [fine (class) and coarse (superclass)](https://www.cs.toronto.edu/~kriz/cifar.html)
+
+**[Day_68] Keras Sequential API - 7/10**
+- [Classification with TensorFlow and Dense Neural Networks](https://heartbeat.fritz.ai/classification-with-tensorflow-and-dense-neural-networks-8299327a818a)
+- [Classification problem with Tensorflow](https://medium.com/mindorks/classification-problems-with-tensorflow-27eab36aa037)
