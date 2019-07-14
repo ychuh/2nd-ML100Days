@@ -3,9 +3,11 @@
 - Progress: **71 / 100** (-6days)
 - Reviewing: **9 / 59**
 
+
 # [Reference]
 - [Customizing Plots with Python Matplotlib](https://towardsdatascience.com/customizing-plots-with-python-matplotlib-bcf02691931f)
 - [Linear Regression Simplified - Ordinary Least Square vs Gradient Descent](https://towardsdatascience.com/linear-regression-simplified-ordinary-least-square-vs-gradient-descent-48145de2cf76)
+
 
 # [Preprocessing]
 
@@ -67,7 +69,8 @@
 - LogisticRegression()
 - submit.to_csv(filename, index)
 
-## [Feature Engineering]
+
+# [Feature Engineering]
 
 **[Day_17] Introducing Feature Engineering - 5/7**
 - LabelEncoder(): labeling object data
@@ -128,7 +131,8 @@
 
 **[Day_30] Leaf Encodeing - 5/25**
 
-## [Machine Learning]
+
+# [Machine Learning]
 
 **[Day_31] Concenpt of Machine Learning - 5/25**
 
