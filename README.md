@@ -6,8 +6,9 @@
 
 # [Reference]
 - [Customizing Plots with Python Matplotlib](https://towardsdatascience.com/customizing-plots-with-python-matplotlib-bcf02691931f)
-- [Linear Regression Simplified - Ordinary Least Square vs Gradient Descent](https://towardsdatascience.com/linear-regression-simplified-ordinary-least-square-vs-gradient-descent-48145de2cf76)
+- [Linear Regression Simplified - Ordinary Least Square vs Gradient Descent](https://towardsdatascience.com/linear-regression-simplified-ordinary-least-square-vs-gradient-descent-48145de2cf76)   
 
+   
 
 # [Preprocessing]
 
