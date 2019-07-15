@@ -4,14 +4,13 @@
 - Reviewing: **9 / 59**
 
 
-# [Reference]
+# Reference
 - [Customizing Plots with Python Matplotlib](https://towardsdatascience.com/customizing-plots-with-python-matplotlib-bcf02691931f)
 - [Linear Regression Simplified - Ordinary Least Square vs Gradient Descent](https://towardsdatascience.com/linear-regression-simplified-ordinary-least-square-vs-gradient-descent-48145de2cf76)   
 
    
 
-# [Preprocessing]
-
+# Preprocessing
 **[Day_1] Basic Calculating and Plot - 4/19**
 - Mean Square Error: 𝑀𝑆𝐸=1𝑛∑𝑛𝑖=1(𝑌𝑖−𝑌̂𝑖)2
 - plt.plot(data_x, data_y, 'b-', label = 'label_name')
@@ -71,8 +70,7 @@
 - submit.to_csv(filename, index)
 
 
-# [Feature Engineering]
-
+# Feature Engineering
 **[Day_17] Introducing Feature Engineering - 5/7**
 - LabelEncoder(): labeling object data
 - MinMaxScaler()
@@ -133,8 +131,7 @@
 **[Day_30] Leaf Encodeing - 5/25**
 
 
-# [Machine Learning]
-
+# Machine Learning
 **[Day_31] Concenpt of Machine Learning - 5/25**
 
 **[Day_32] Process of Machine Learning - 5/28**
