@@ -1,5 +1,5 @@
 - Project: [機器學習 百日馬拉松](https://ai100-2.cupoy.com/participator/19013267/questions)   
-- Duration: April 2019 / August 2019   
+- Duration: 2019/4/15 - 2019/8/15   
 - Progress: **103 / 103**
 
 
